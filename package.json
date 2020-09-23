@@ -1,0 +1,22 @@
+{
+  "name": "string-comparison",
+  "version": "1.0.0",
+  "description": "String Comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsan-codejit/string-comparison.git"
+  },
+  "author": "Md. Ahsan Habib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsan-codejit/string-comparison/issues"
+  },
+  "homepage": "https://github.com/ahsan-codejit/string-comparison#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
